@@ -11,8 +11,8 @@ All coursework for the Java Design Patterns Course by Tim Buchalka and Jason Fed
 - [x] Section 03 - Principles and Strategies of Design
 - [x] Section 04 - UML
 - [x] Section 05 - Creational Design Patterns
-- [ ] Section 06 - Factory Method
-- [ ] Section 07 - Abstract Factory Method
+- [x] Section 06 - Factory Method
+- [x] Section 07 - Abstract Factory Method
 - [ ] Section 08 - Singleton
 - [ ] Section 09 - Builder
 - [ ] Section 10 - Prototype
