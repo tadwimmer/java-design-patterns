@@ -13,7 +13,7 @@ All coursework for the Java Design Patterns Course by Tim Buchalka and Jason Fed
 - [x] Section 05 - Creational Design Patterns
 - [x] Section 06 - Factory Method
 - [x] Section 07 - Abstract Factory Method
-- [ ] Section 08 - Singleton
+- [x] Section 08 - Singleton
 - [ ] Section 09 - Builder
 - [ ] Section 10 - Prototype
 - [ ] Section 11 - Structural Design Patterns
