@@ -41,5 +41,7 @@ public class BulletProofSingleton implements Serializable {
         return (Class<BulletProofSingleton>) loader.loadClass(className);
     }
 
-
+    public String toString() {
+        return "Not Branch 1, Branch 2";
+    }
 }
