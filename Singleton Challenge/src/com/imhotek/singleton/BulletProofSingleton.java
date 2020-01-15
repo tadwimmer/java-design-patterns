@@ -41,5 +41,8 @@ public class BulletProofSingleton implements Serializable {
         return (Class<BulletProofSingleton>) loader.loadClass(className);
     }
 
+    public String toString() {
+        return "branch 1";
+    }
 
 }
