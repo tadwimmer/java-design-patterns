@@ -42,6 +42,7 @@ public class BulletProofSingleton implements Serializable {
     }
 
     public String toString() {
-        return "Not Branch 1, Branch 2";
+        return "Branch 1, Branch 2";
     }
+    
 }
